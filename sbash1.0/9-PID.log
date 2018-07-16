@@ -1,0 +1,4 @@
+logging PIDs background commands for script: 9-PID.sh
+
+PID OF "sleep 100": 2026
+PID of this script: 2025
